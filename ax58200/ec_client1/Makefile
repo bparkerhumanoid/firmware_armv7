@@ -1,3 +1,3 @@
 
 all:
-	cd src && make
+	cd soes/src && make
